@@ -1,3 +1,5 @@
+# PUBLISHING AT 20 STARS
+
 # Haram-Discord-Nuker
 
 This nuker is very powerful. You can destroy servers with this!
